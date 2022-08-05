@@ -48,7 +48,7 @@
     "joi": "^10.3.3",
     "lodash": "^4.17.4",
     "mongodb": "^2.2.11",
-    "mongoose": "^4.7.0",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.11.0",
     "passport": "^0.3.2",
     "passport-http": "^0.3.0",
